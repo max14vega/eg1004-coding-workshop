@@ -25,7 +25,7 @@ Students will learn to:
 📦 first-year-coding-workshop/
 ├── README.md # You're here!
 ├── curriculum/ # Drafts and finalized lab procedures
-| ├── procedure / #Actual student acing text
+│ ├── procedure / #Actual student acing text
 │ ├── modules/ # Modules for students to complete asynchronously
 ├── examples/ # Sample code used in labs
 ├── instructor-notes/ # Teaching guides, troubleshooting tips
